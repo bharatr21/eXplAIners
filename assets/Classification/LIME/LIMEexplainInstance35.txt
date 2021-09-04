@@ -1,0 +1,16 @@
+Intercept: 0.2383766041246203
+Instance no: 35
+Probability (Diabetic): [0.77]
+Model Accuracy: 0.7402597402597403
+
+Explaining Instance: 35
+---------------------
+
+Glucose > 139.00		0.26428735696879296
+DiabetesPedigree > 0.61		0.07366207330523529
+32.00 < BMI <= 36.38		0.06573963777781164
+29.00 < Age <= 40.00		0.0657382784081452
+Pregnancies > 6.00		0.05680142748306201
+SkinThickness > 32.00		0.0344731351145496
+Insulin > 129.75		0.01992151654536322
+72.00 < BloodPressure <= 80.00	0.0016926340264275248
