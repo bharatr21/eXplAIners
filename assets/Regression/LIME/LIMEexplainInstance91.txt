@@ -1,0 +1,16 @@
+Intercept: 5.519336640078016R² score: 0.40982277665223577Predicted value: 5.486Random Forest Regressor RMSE: 0.5555381653180995
+
+Explaining Instance: 91
+---------------------
+
+alcohol > 11.10		0.6061980497766571
+total sulfur dioxide > 63.00		-0.16607830015023262
+0.55 < sulphates <= 0.62		-0.10158483258214723
+density <= 1.00		0.044414192377454184
+pH <= 3.21		0.035176120678620845
+0.26 < citric acid <= 0.43		0.01830704822981355
+free sulfur dioxide > 21.00		-0.01641119081363915
+fixed acidity <= 7.10		-0.014524964159628607
+residual sugar > 2.60		0.011682735934825541
+0.40 < volatile acidity <= 0.52		0.005268495995787164
+chlorides <= 0.07		0.002938786758077332

@@ -1,0 +1,53 @@
+The approximate model is -3.494 x Variance + -1.907 x Skew + -2.340 x Curtosis + -0.288 x Entropy + 3.538
+
+The approximate model is -3.475 x Variance + -1.921 x Skew + -2.345 x Curtosis + -0.312 x Entropy + 3.525
+
+The approximate model is -3.487 x Variance + -1.918 x Skew + -2.349 x Curtosis + -0.273 x Entropy + 3.526
+
+The approximate model is -3.492 x Variance + -1.899 x Skew + -2.333 x Curtosis + -0.273 x Entropy + 3.514
+
+The approximate model is -3.489 x Variance + -1.936 x Skew + -2.358 x Curtosis + -0.312 x Entropy + 3.519
+
+The approximate model is -3.478 x Variance + -1.913 x Skew + -2.338 x Curtosis + -0.288 x Entropy + 3.493
+
+The approximate model is -3.498 x Variance + -1.946 x Skew + -2.372 x Curtosis + -0.312 x Entropy + 3.525
+
+The approximate model is -3.497 x Variance + -1.902 x Skew + -2.341 x Curtosis + -0.237 x Entropy + 3.552
+
+The approximate model is -3.523 x Variance + -1.896 x Skew + -2.342 x Curtosis + -0.239 x Entropy + 3.523
+
+The approximate model is -3.506 x Variance + -1.920 x Skew + -2.353 x Curtosis + -0.270 x Entropy + 3.532
+
+The approximate model is -3.513 x Variance + -1.919 x Skew + -2.352 x Curtosis + -0.288 x Entropy + 3.497
+
+The approximate model is -3.516 x Variance + -1.940 x Skew + -2.368 x Curtosis + -0.313 x Entropy + 3.509
+
+The approximate model is -3.503 x Variance + -1.914 x Skew + -2.346 x Curtosis + -0.296 x Entropy + 3.524
+
+The approximate model is -3.515 x Variance + -1.914 x Skew + -2.349 x Curtosis + -0.314 x Entropy + 3.481
+
+The approximate model is -3.491 x Variance + -1.930 x Skew + -2.358 x Curtosis + -0.319 x Entropy + 3.513
+
+The approximate model is -3.513 x Variance + -1.929 x Skew + -2.361 x Curtosis + -0.314 x Entropy + 3.507
+
+The approximate model is -3.502 x Variance + -1.912 x Skew + -2.347 x Curtosis + -0.270 x Entropy + 3.523
+
+The approximate model is -3.493 x Variance + -1.920 x Skew + -2.352 x Curtosis + -0.275 x Entropy + 3.519
+
+The approximate model is -3.499 x Variance + -1.911 x Skew + -2.348 x Curtosis + -0.258 x Entropy + 3.541
+
+The approximate model is -3.484 x Variance + -1.915 x Skew + -2.341 x Curtosis + -0.309 x Entropy + 3.509
+
+The approximate model is -3.485 x Variance + -1.916 x Skew + -2.346 x Curtosis + -0.275 x Entropy + 3.543
+
+The approximate model is -3.474 x Variance + -1.898 x Skew + -2.330 x Curtosis + -0.294 x Entropy + 3.526
+
+The approximate model is -3.503 x Variance + -1.901 x Skew + -2.339 x Curtosis + -0.292 x Entropy + 3.504
+
+The approximate model is -3.496 x Variance + -1.910 x Skew + -2.345 x Curtosis + -0.291 x Entropy + 3.527
+
+The approximate model is -3.495 x Variance + -1.913 x Skew + -2.345 x Curtosis + -0.290 x Entropy + 3.500
+
+The approximate model is -3.481 x Variance + -1.916 x Skew + -2.343 x Curtosis + -0.300 x Entropy + 3.507
+
+The approximate model is -3.480 x Variance + -1.909 x Skew + -2.338 x Curtosis + -0.279 x Entropy + 3.509

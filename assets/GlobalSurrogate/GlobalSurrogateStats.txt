@@ -1,0 +1,109 @@
+Run #1
+----------------------
+Accuracy: 0.974089
+[[662   3]
+ [ 29 541]]
+             precision    recall  f1-score   support
+
+          0       0.96      1.00      0.98       665
+          1       0.99      0.95      0.97       570
+
+avg / total       0.97      0.97      0.97      1235
+
+Entropy Criteria
+-------------------------------------------------
+Decision Tree R^2 fidelity: 0.8635245901639343
+Decision Tree R^2 score: 0.8709016393442623
+Decision Tree Fidelity Score: 0.9530364372469635
+Decision Tree Accuracy Score: 0.9562753036437247
+Fidelity Report
+             precision    recall  f1-score   support
+
+          0       0.95      0.96      0.96       663
+          1       0.95      0.95      0.95       572
+
+avg / total       0.95      0.95      0.95      1235
+
+Accuracy Report
+             precision    recall  f1-score   support
+
+          0       0.94      0.98      0.96       663
+          1       0.98      0.93      0.95       572
+
+avg / total       0.96      0.96      0.96      1235
+
+Logistic Regression R^2 fidelity: -1.0000869007192703
+Logistic Regression R^2 score: -1.0000869007192703
+Logistic Regression Fidelity score: 0.5076923076923077
+Logistic Regression Accuracy score: 0.5093117408906883
+Fidelity Report
+             precision    recall  f1-score   support
+
+          0       0.54      0.55      0.55       667
+          1       0.46      0.46      0.46       568
+
+avg / total       0.51      0.51      0.51      1235
+
+Accuracy Report
+             precision    recall  f1-score   support
+
+          0       0.54      0.56      0.55       667
+          1       0.47      0.45      0.46       568
+
+avg / total       0.51      0.51      0.51      1235
+
+
+Run #2
+---------
+
+Accuracy: 1.000000
+[[619   0]
+ [  0 479]]
+             precision    recall  f1-score   support
+
+          0       1.00      1.00      1.00       619
+          1       1.00      1.00      1.00       479
+
+avg / total       1.00      1.00      1.00      1098
+
+Gini Criterion
+-------------------------------------------------
+Decision Tree R^2 fidelity: 0.8446105998780229
+Decision Tree R^2 score: 0.8520100951219266
+Decision Tree Fidelity Score: 0.9690346083788707
+Decision Tree Accuracy Score: 0.9690346083788707
+Fidelity Report
+             precision    recall  f1-score   support
+
+          0       0.97      0.98      0.97       611
+          1       0.97      0.96      0.96       487
+
+avg / total       0.97      0.97      0.97      1098
+
+Accuracy Report
+             precision    recall  f1-score   support
+
+          0       0.97      0.98      0.97       611
+          1       0.97      0.96      0.96       487
+
+avg / total       0.97      0.97      0.97      1098
+
+Logistic Regression R^2 fidelity: -0.9827529021558872
+Logistic Regression R^2 score: -0.9864314789687922
+Logistic Regression Fidelity score: 0.5045537340619308
+Logistic Regression Accuracy score: 0.5036429872495446
+Fidelity Report
+             precision    recall  f1-score   support
+
+          0       0.54      0.56      0.55       596
+          1       0.46      0.44      0.45       502
+
+avg / total       0.50      0.50      0.50      1098
+
+Accuracy Report
+             precision    recall  f1-score   support
+
+          0       0.54      0.56      0.55       596
+          1       0.46      0.43      0.44       502
+
+avg / total       0.50      0.50      0.50      1098
