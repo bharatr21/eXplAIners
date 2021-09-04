@@ -1,4 +1,4 @@
-# eXplAIner
+# eXplAIners
 Steps and Explorations in Interpretable / Explainable AI
 
 ## Table of Contents
@@ -127,3 +127,6 @@ Prediction: Diabetic
 Predicted Wine Quality: 5.8 / 10
 
 ![LIME Explanation Instance 186](assets/Regression/LIME/LIMEexplainInstance186.png)
+
+### Deep Learning Methods
+Coming Soon!
